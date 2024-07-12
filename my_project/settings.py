@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-lqx(nsoc7-$4oof$81@ye+^hjn2zzf7-)-!0t2io1*ve!lsixb
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-rock3879-djangoproject-5njlg80yuhi.ws.codeinstitute-ide.net']
+ALLOWED_HOSTS = ['8000-rock3879-djangoproject-2xgby0sy4qj.ws.codeinstitute-ide.net']
 
 
 # Application definition
